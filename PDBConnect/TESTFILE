@@ -1,0 +1,12 @@
+try{
+		result = st.executeQuery("Select * from accounts");
+		while(result.next()){
+		System.out.println(result.getString(1)+result.getString(2));
+		if (result.getString(1).equals("4"))
+		{
+			System.out.println("Eureka");
+			break;
+		}
+		}
+		}
+		catch(Exception e){System.out.println(e.getMessage());}
