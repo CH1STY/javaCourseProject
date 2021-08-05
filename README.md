@@ -9,3 +9,8 @@ PHP My Admin.
 SQL FILE GIVEN IN THE REPO
 
 AND IF YOU CAN NOT RUN THE PROJECT FEEL FREE TO CHECK THE SCREENSHOTS FOLDER
+
+
+### Login Page UI VIEW 
+
+<img src="Screenshots/AdminLandingPage.jpg"/>
